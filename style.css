@@ -1,0 +1,190 @@
+/* =========================================
+   TRAFFIC RULES CHATBOT
+   Modern Blue + Cyan Theme
+   ========================================= */
+
+.stApp {
+    background: linear-gradient(135deg, #eef7ff 0%, #f8fbff 45%, #eafcff 100%);
+    color: #172033;
+}
+
+/* Main Container */
+.block-container {
+    max-width: 850px;
+    padding-top: 2.5rem;
+    padding-bottom: 3rem;
+}
+
+
+/* =========================================
+   HEADER
+   ========================================= */
+
+h1 {
+    color: #1261a0 !important;
+    text-align: center;
+    font-size: 44px !important;
+    font-weight: 800 !important;
+    letter-spacing: -1px;
+    margin-bottom: 5px !important;
+}
+
+.subtitle {
+    color: #60758a !important;
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+
+/* =========================================
+   SECTION HEADINGS
+   ========================================= */
+
+h3 {
+    color: #174a70 !important;
+    font-weight: 700 !important;
+}
+
+
+/* =========================================
+   INPUT BOX
+   ========================================= */
+
+.stTextInput input {
+    background: #ffffff !important;
+    color: #172033 !important;
+    border: 2px solid #d7e8f5 !important;
+    border-radius: 14px !important;
+    padding: 15px !important;
+    font-size: 16px !important;
+    box-shadow: 0 5px 18px rgba(20, 100, 160, 0.08);
+}
+
+.stTextInput input:hover {
+    border-color: #55bde8 !important;
+}
+
+.stTextInput input:focus {
+    border-color: #159bd7 !important;
+    box-shadow: 0 0 0 3px rgba(21, 155, 215, 0.12) !important;
+}
+
+
+/* =========================================
+   SELECT BOX
+   ========================================= */
+
+.stSelectbox div[data-baseweb="select"] > div {
+    background-color: #ffffff !important;
+    border: 2px solid #d7e8f5 !important;
+    border-radius: 14px !important;
+    color: #172033 !important;
+}
+
+.stSelectbox div[data-baseweb="select"] > div:hover {
+    border-color: #55bde8 !important;
+}
+
+
+/* =========================================
+   USER QUESTION
+   ========================================= */
+
+.chat-user {
+    color: #1261a0;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+.user-question {
+    background: #ffffff;
+    border-left: 5px solid #29a9e8;
+    padding: 15px 18px;
+    border-radius: 12px;
+    color: #26384a;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 18px rgba(20, 100, 160, 0.08);
+}
+
+
+/* =========================================
+   BOT RESPONSE
+   ========================================= */
+
+.chat-bot {
+    color: #087f8c;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.bot-response {
+    background: linear-gradient(135deg, #e9fbff, #f4fdff);
+    border: 1px solid #b8e8f1;
+    border-left: 5px solid #11a7b8;
+    padding: 17px 19px;
+    border-radius: 12px;
+    color: #25424b;
+    line-height: 1.7;
+    box-shadow: 0 5px 18px rgba(17, 150, 170, 0.08);
+}
+
+
+/* =========================================
+   DIVIDERS
+   ========================================= */
+
+hr {
+    border-color: #d9eaf4 !important;
+}
+
+
+/* =========================================
+   WARNING
+   ========================================= */
+
+.stAlert {
+    border-radius: 12px !important;
+}
+
+
+/* =========================================
+   EXAMPLE QUESTION AREA
+   ========================================= */
+
+.example-question {
+    background: #ffffff;
+    border: 1px solid #dcecf5;
+    padding: 13px 16px;
+    margin: 8px 0;
+    border-radius: 11px;
+    color: #355064;
+    box-shadow: 0 3px 12px rgba(20, 100, 160, 0.05);
+}
+
+
+/* =========================================
+   FOOTER
+   ========================================= */
+
+.footer {
+    text-align: center;
+    color: #7890a0;
+    font-size: 13px;
+    line-height: 1.7;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+
+/* =========================================
+   GENERAL TEXT
+   ========================================= */
+
+p,
+label {
+    color: #34495e !important;
+}

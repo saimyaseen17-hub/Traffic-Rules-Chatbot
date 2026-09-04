@@ -1,0 +1,297 @@
+question,intent,response,clean_question
+What should I do at a red light?,red_light,Stop your vehicle at a red traffic signal and wait until it is safe to proceed.,what should i do at a red light
+What do I do when the traffic signal is red?,red_light,You should stop when the traffic signal is red.,what do i do when the traffic signal is red
+Should I stop at a red signal?,red_light,"Yes, you should stop at a red traffic signal.",should i stop at a red signal
+Can I cross the road on a red light?,red_light,You should not cross against a red traffic signal.,can i cross the road on a red light
+Should I wear a helmet?,helmet,Motorcycle riders should wear a helmet for safety.,should i wear a helmet
+Is helmet necessary while riding a bike?,helmet,"Yes, wearing a helmet is an important safety measure for bike riders.",is helmet necessary while riding a bike
+Do motorcycle riders need helmets?,helmet,Motorcycle riders and passengers should wear helmets.,do motorcycle riders need helmets
+Is it safe to ride without a helmet?,helmet,Riding without a helmet is unsafe and should be avoided.,is it safe to ride without a helmet
+Should I wear a seat belt?,seat_belt,You should wear a seat belt while travelling in a car.,should i wear a seat belt
+Is seat belt required in a car?,seat_belt,Seat belts should be used by the driver and passengers.,is seat belt required in a car
+Do passengers need to wear seat belts?,seat_belt,Passengers should also use seat belts where available.,do passengers need to wear seat belts
+Why should I use a seat belt?,seat_belt,Seat belts help reduce the risk of serious injury during a crash.,why should i use a seat belt
+Can I use my phone while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,can i use my phone while driving
+Is mobile phone use allowed while driving?,mobile_phone,Using a phone while driving can be dangerous and may be restricted by local law.,is mobile phone use allowed while driving
+Can I text while driving?,mobile_phone,Do not text while driving.,can i text while driving
+Should I use my phone while driving?,mobile_phone,Keep your attention on the road and avoid phone use while driving.,should i use my phone while driving
+What is the speed limit?,speed_limit,Follow the speed limit displayed for the road you are driving on.,what is the speed limit
+How fast can I drive?,speed_limit,Your speed should remain within the posted speed limit.,how fast can i drive
+Can I exceed the speed limit?,speed_limit,You should not exceed the posted speed limit.,can i exceed the speed limit
+Should I follow the posted speed limit?,speed_limit,Always follow the applicable posted speed limit.,should i follow the posted speed limit
+Can I overtake from the wrong side?,overtaking,Overtaking should only be done when it is safe and legally permitted.,can i overtake from the wrong side
+What are the rules for overtaking?,overtaking,Overtake only when the road conditions and traffic rules allow it.,what are the rules for overtaking
+When is overtaking allowed?,overtaking,Overtaking is allowed only in safe and permitted situations.,when is overtaking allowed
+Is dangerous overtaking allowed?,overtaking,Dangerous overtaking should always be avoided.,is dangerous overtaking allowed
+Can I park anywhere?,parking,Park only where parking is permitted.,can i park anywhere
+Where should I park my vehicle?,parking,Use a designated or legally permitted parking area.,where should i park my vehicle
+Is parking allowed here?,parking,Check the signs and markings before parking.,is parking allowed here
+Can I park near a traffic signal?,parking,Do not park where traffic signs or markings prohibit parking.,can i park near a traffic signal
+Can I drive without a license?,driving_license,You need a valid driving license to legally drive a vehicle.,can i drive without a license
+Do I need a driving license?,driving_license,A valid driving license is required for driving.,do i need a driving license
+Is a valid license required for driving?,driving_license,You should have the appropriate valid license for the vehicle.,is a valid license required for driving
+Can I drive with an expired license?,driving_license,Do not drive with an expired license.,can i drive with an expired license
+What should I do at a zebra crossing?,pedestrian,Slow down and give pedestrians the appropriate right of way at a crossing.,what should i do at a zebra crossing
+Should I stop for pedestrians?,pedestrian,You should give way to pedestrians where traffic rules require it.,should i stop for pedestrians
+Who has priority at a pedestrian crossing?,pedestrian,"Pedestrians generally have priority at designated crossings, subject to local rules.",who has priority at a pedestrian crossing
+Should I give way to pedestrians?,pedestrian,Give way to pedestrians at designated crossings.,should i give way to pedestrians
+What should I do when an ambulance approaches?,emergency_vehicle,Slow down and give way to the ambulance when safe to do so.,what should i do when an ambulance approaches
+Should I give way to an ambulance?,emergency_vehicle,You should give way to an approaching emergency vehicle.,should i give way to an ambulance
+What should I do for an emergency vehicle?,emergency_vehicle,Move aside safely to allow the emergency vehicle to pass.,what should i do for an emergency vehicle
+Do I need to move aside for an ambulance?,emergency_vehicle,Give emergency vehicles a clear and safe path.,do i need to move aside for an ambulance
+Is it compulsory to wear a helmet on a motorcycle?,helmet,Motorcycle riders should wear a helmet for safety.,is it compulsory to wear a helmet on a motorcycle
+Can a bike rider drive without a helmet?,helmet,Riding a motorcycle without a helmet is unsafe and should be avoided.,can a bike rider drive without a helmet
+Is a helmet mandatory for motorcycle passengers?,helmet,Motorcycle riders and passengers should wear helmets.,is a helmet mandatory for motorcycle passengers
+Do I need a helmet when riding a bike?,helmet,You should wear a helmet when riding a motorcycle.,do i need a helmet when riding a bike
+What should I do before crossing at a zebra crossing?,pedestrian,Slow down and give pedestrians the appropriate right of way.,what should i do before crossing at a zebra crossing
+Do pedestrians have priority at zebra crossings?,pedestrian,"Pedestrians generally have priority at designated crossings, subject to local rules.",do pedestrians have priority at zebra crossings
+Should drivers stop for people at a zebra crossing?,pedestrian,Drivers should give way to pedestrians at designated crossings.,should drivers stop for people at a zebra crossing
+Can I drive through a zebra crossing when pedestrians are crossing?,pedestrian,Slow down and give way to pedestrians who are crossing.,can i drive through a zebra crossing when pedestrians are crossing
+What does a red traffic light mean?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,what does a red traffic light mean
+Should I wait at a red signal?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,should i wait at a red signal
+Can I move when the signal is red?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,can i move when the signal is red
+When can I go after a red light?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,when can i go after a red light
+What should a driver do at a red signal?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,what should a driver do at a red signal
+Is stopping at a red light compulsory?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,is stopping at a red light compulsory
+Can I turn at a red signal?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,can i turn at a red signal
+Should vehicles stop before the red signal?,red_light,Stop at a red traffic signal and wait until it is safe to proceed.,should vehicles stop before the red signal
+Is wearing a helmet important for bikers?,helmet,Motorcycle riders and passengers should wear helmets for safety.,is wearing a helmet important for bikers
+Should both rider and passenger wear helmets?,helmet,Motorcycle riders and passengers should wear helmets for safety.,should both rider and passenger wear helmets
+Can I ride a motorcycle without a helmet?,helmet,Motorcycle riders and passengers should wear helmets for safety.,can i ride a motorcycle without a helmet
+Is a helmet required for bike riders?,helmet,Motorcycle riders and passengers should wear helmets for safety.,is a helmet required for bike riders
+What safety gear should a bike rider use?,helmet,Motorcycle riders and passengers should wear helmets for safety.,what safety gear should a bike rider use
+Do I have to wear a helmet on a bike?,helmet,Motorcycle riders and passengers should wear helmets for safety.,do i have to wear a helmet on a bike
+Is riding without a helmet safe?,helmet,Motorcycle riders and passengers should wear helmets for safety.,is riding without a helmet safe
+Why is a helmet important for riders?,helmet,Motorcycle riders and passengers should wear helmets for safety.,why is a helmet important for riders
+Is wearing a seat belt compulsory?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,is wearing a seat belt compulsory
+Should the driver wear a seat belt?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,should the driver wear a seat belt
+Should everyone in the car wear a seat belt?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,should everyone in the car wear a seat belt
+Can I drive without a seat belt?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,can i drive without a seat belt
+Why are seat belts important?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,why are seat belts important
+Is a seat belt needed in the front seat?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,is a seat belt needed in the front seat
+Do rear passengers need seat belts?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,do rear passengers need seat belts
+What is the purpose of a seat belt?,seat_belt,Drivers and passengers should wear seat belts while travelling in a car.,what is the purpose of a seat belt
+Is it safe to use a phone while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,is it safe to use a phone while driving
+Can drivers make calls while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,can drivers make calls while driving
+Can I answer a phone call while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,can i answer a phone call while driving
+Should I avoid using my mobile while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,should i avoid using my mobile while driving
+Is texting while driving dangerous?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,is texting while driving dangerous
+Can I check messages while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,can i check messages while driving
+Why should I not use my phone while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,why should i not use my phone while driving
+Can I use social media while driving?,mobile_phone,Avoid using a mobile phone while driving because it can distract you.,can i use social media while driving
+What speed should I drive at?,speed_limit,Always follow the applicable posted speed limit.,what speed should i drive at
+Should I drive faster than the speed limit?,speed_limit,Always follow the applicable posted speed limit.,should i drive faster than the speed limit
+Is exceeding the speed limit allowed?,speed_limit,Always follow the applicable posted speed limit.,is exceeding the speed limit allowed
+How can I know the speed limit?,speed_limit,Always follow the applicable posted speed limit.,how can i know the speed limit
+Why should I follow the speed limit?,speed_limit,Always follow the applicable posted speed limit.,why should i follow the speed limit
+Can I drive above the posted speed?,speed_limit,Always follow the applicable posted speed limit.,can i drive above the posted speed
+What happens if I exceed the speed limit?,speed_limit,Always follow the applicable posted speed limit.,what happens if i exceed the speed limit
+Should I slow down near traffic areas?,speed_limit,Always follow the applicable posted speed limit.,should i slow down near traffic areas
+Is overtaking always allowed?,overtaking,Overtake only when it is safe and legally permitted.,is overtaking always allowed
+When should I overtake another vehicle?,overtaking,Overtake only when it is safe and legally permitted.,when should i overtake another vehicle
+Can I overtake on any road?,overtaking,Overtake only when it is safe and legally permitted.,can i overtake on any road
+Is overtaking from the left allowed?,overtaking,Overtake only when it is safe and legally permitted.,is overtaking from the left allowed
+Should I overtake near a turn?,overtaking,Overtake only when it is safe and legally permitted.,should i overtake near a turn
+What should I check before overtaking?,overtaking,Overtake only when it is safe and legally permitted.,what should i check before overtaking
+Is risky overtaking dangerous?,overtaking,Overtake only when it is safe and legally permitted.,is risky overtaking dangerous
+Can I overtake when visibility is poor?,overtaking,Overtake only when it is safe and legally permitted.,can i overtake when visibility is poor
+Where is parking allowed?,parking,Park only in areas where parking is permitted.,where is parking allowed
+Can I park beside a traffic signal?,parking,Park only in areas where parking is permitted.,can i park beside a traffic signal
+Is illegal parking allowed?,parking,Park only in areas where parking is permitted.,is illegal parking allowed
+Should I use a parking area?,parking,Park only in areas where parking is permitted.,should i use a parking area
+Can I park on a busy road?,parking,Park only in areas where parking is permitted.,can i park on a busy road
+How do I know where parking is allowed?,parking,Park only in areas where parking is permitted.,how do i know where parking is allowed
+Can I park in a no parking zone?,parking,Park only in areas where parking is permitted.,can i park in a no parking zone
+Why should I follow parking signs?,parking,Park only in areas where parking is permitted.,why should i follow parking signs
+Is a driving license necessary?,driving_license,You need a valid driving license to legally drive a vehicle.,is a driving license necessary
+Can I drive without a valid license?,driving_license,You need a valid driving license to legally drive a vehicle.,can i drive without a valid license
+What type of license do I need to drive?,driving_license,You need a valid driving license to legally drive a vehicle.,what type of license do i need to drive
+Can I drive with an expired driving license?,driving_license,You need a valid driving license to legally drive a vehicle.,can i drive with an expired driving license
+Why is a driving license required?,driving_license,You need a valid driving license to legally drive a vehicle.,why is a driving license required
+Do all drivers need a valid license?,driving_license,You need a valid driving license to legally drive a vehicle.,do all drivers need a valid license
+Can a person drive before getting a license?,driving_license,You need a valid driving license to legally drive a vehicle.,can a person drive before getting a license
+Should I carry my driving license while driving?,driving_license,You need a valid driving license to legally drive a vehicle.,should i carry my driving license while driving
+What should drivers do at a zebra crossing?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,what should drivers do at a zebra crossing
+Should I slow down near pedestrians?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,should i slow down near pedestrians
+Do pedestrians have the right of way?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,do pedestrians have the right of way
+Should cars stop when pedestrians are crossing?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,should cars stop when pedestrians are crossing
+What should I do when people are crossing the road?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,what should i do when people are crossing the road
+Should I give way at a zebra crossing?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,should i give way at a zebra crossing
+Can I pass a vehicle stopped for pedestrians?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,can i pass a vehicle stopped for pedestrians
+How should drivers behave near pedestrian crossings?,pedestrian,Give pedestrians the appropriate right of way at designated crossings.,how should drivers behave near pedestrian crossings
+What should I do when an ambulance comes?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,what should i do when an ambulance comes
+Should I move aside for an emergency vehicle?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,should i move aside for an emergency vehicle
+Do emergency vehicles have priority?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,do emergency vehicles have priority
+What should drivers do for ambulances?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,what should drivers do for ambulances
+Should I stop for an approaching ambulance?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,should i stop for an approaching ambulance
+How can I give way to an emergency vehicle?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,how can i give way to an emergency vehicle
+What should I do when I hear a siren?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,what should i do when i hear a siren
+Should I clear the road for an ambulance?,emergency_vehicle,Give emergency vehicles a clear and safe path when possible.,should i clear the road for an ambulance
+red light par kya karna chahiye?,red_light,Red light par gaari rok deni chahiye.,red light par kya karna chahiye
+signal red ho to kya karun?,red_light,Signal red ho to vehicle ko rok kar wait karein.,signal red ho to kya karun
+red signal par rukna zaroori hai?,red_light,"Ji haan, red signal par rukna chahiye.",red signal par rukna zaroori hai
+bike chalate waqt helmet zaroori hai?,helmet,"Ji haan, bike chalate waqt helmet pehna chahiye.",bike chalate waqt helmet zaroori hai
+kya motorcycle par helmet pehna chahiye?,helmet,Motorcycle rider aur passenger ko helmet pehna chahiye.,kya motorcycle par helmet pehna chahiye
+helmet ke baghair bike chala sakte hain?,helmet,Helmet ke baghair bike chalana unsafe hai.,helmet ke baghair bike chala sakte hain
+car mein seat belt lagana zaroori hai?,seat_belt,"Ji haan, car mein seat belt lagani chahiye.",car mein seat belt lagana zaroori hai
+kya passenger ko seat belt lagani chahiye?,seat_belt,Passengers ko bhi seat belt use karni chahiye.,kya passenger ko seat belt lagani chahiye
+seat belt kyun lagani chahiye?,seat_belt,Seat belt accident mein serious injury ka risk kam karti hai.,seat belt kyun lagani chahiye
+driving ke waqt mobile use kar sakte hain?,mobile_phone,Driving ke waqt mobile phone use karne se bachna chahiye.,driving ke waqt mobile use kar sakte hain
+kya driving ke waqt phone use karna allowed hai?,mobile_phone,Driving ke waqt phone use karna dangerous ho sakta hai.,kya driving ke waqt phone use karna allowed hai
+drive karte waqt phone par baat kar sakte hain?,mobile_phone,Drive karte waqt phone par baat nahi karni chahiye.,drive karte waqt phone par baat kar sakte hain
+speed limit kya hai?,speed_limit,Road par lagi hui applicable speed limit follow karein.,speed limit kya hai
+gaari kitni speed par chalani chahiye?,speed_limit,Gaari posted speed limit ke andar chalani chahiye.,gaari kitni speed par chalani chahiye
+kya speed limit se zyada drive kar sakte hain?,speed_limit,Speed limit exceed nahi karni chahiye.,kya speed limit se zyada drive kar sakte hain
+overtake kab karna chahiye?,overtaking,Overtake sirf safe aur legally permitted situation mein karein.,overtake kab karna chahiye
+kya wrong side se overtake kar sakte hain?,overtaking,Wrong side se dangerous overtaking se bachna chahiye.,kya wrong side se overtake kar sakte hain
+overtaking ke rules kya hain?,overtaking,Overtaking se pehle road aur traffic conditions check karein.,overtaking ke rules kya hain
+gaari kahan park kar sakte hain?,parking,Gaari sirf permitted parking area mein park karein.,gaari kahan park kar sakte hain
+kya signal ke paas parking kar sakte hain?,parking,Traffic signal ke paas parking signs aur markings check karein.,kya signal ke paas parking kar sakte hain
+no parking area mein gaari park kar sakte hain?,parking,No parking area mein gaari park nahi karni chahiye.,no parking area mein gaari park kar sakte hain
+driving ke liye license zaroori hai?,driving_license,Driving ke liye valid driving license zaroori hai.,driving ke liye license zaroori hai
+kya license ke baghair drive kar sakte hain?,driving_license,Valid license ke baghair legally drive nahi karna chahiye.,kya license ke baghair drive kar sakte hain
+expired license par gaari chala sakte hain?,driving_license,Expired license ke sath drive nahi karna chahiye.,expired license par gaari chala sakte hain
+zebra crossing par kya karna chahiye?,pedestrian,Zebra crossing par pedestrians ko raasta dena chahiye.,zebra crossing par kya karna chahiye
+pedestrians ko raasta dena chahiye?,pedestrian,Pedestrians ko designated crossing par appropriate right of way dein.,pedestrians ko raasta dena chahiye
+zebra crossing par pedestrian ko priority hoti hai?,pedestrian,"Zebra crossing par pedestrians ko priority deni chahiye, local rules ke mutabiq.",zebra crossing par pedestrian ko priority hoti hai
+ambulance aaye to kya karna chahiye?,emergency_vehicle,Ambulance aaye to safe tareeqe se usay raasta dein.,ambulance aaye to kya karna chahiye
+emergency vehicle ko raasta dena chahiye?,emergency_vehicle,Emergency vehicle ko safe aur clear path dena chahiye.,emergency vehicle ko raasta dena chahiye
+ambulance ke liye side deni chahiye?,emergency_vehicle,Ambulance ke liye safe tareeqe se side deni chahiye.,ambulance ke liye side deni chahiye
+What should I do at a yellow light?,yellow_light,Yellow light means you should slow down and prepare to stop when safe.,what should i do at a yellow light
+Should I stop at a yellow signal?,yellow_light,Yellow light means you should slow down and prepare to stop when safe.,should i stop at a yellow signal
+Can I cross when the traffic light is yellow?,yellow_light,Yellow light means you should slow down and prepare to stop when safe.,can i cross when the traffic light is yellow
+Yellow light par kya karna chahiye?,yellow_light,Yellow light means you should slow down and prepare to stop when safe.,yellow light par kya karna chahiye
+Kya yellow signal par rukna chahiye?,yellow_light,Yellow light means you should slow down and prepare to stop when safe.,kya yellow signal par rukna chahiye
+Yellow light par road cross kar sakte hain?,yellow_light,Yellow light means you should slow down and prepare to stop when safe.,yellow light par road cross kar sakte hain
+What should I do at a green light?,green_light,Green light generally allows you to proceed when the way is clear and safe.,what should i do at a green light
+Can I go when the traffic signal is green?,green_light,Green light generally allows you to proceed when the way is clear and safe.,can i go when the traffic signal is green
+Does green light mean I can move?,green_light,Green light generally allows you to proceed when the way is clear and safe.,does green light mean i can move
+Green light par kya karna chahiye?,green_light,Green light generally allows you to proceed when the way is clear and safe.,green light par kya karna chahiye
+Kya green signal par gaari chala sakte hain?,green_light,Green light generally allows you to proceed when the way is clear and safe.,kya green signal par gaari chala sakte hain
+Green signal ho to vehicle move kar sakte hain?,green_light,Green light generally allows you to proceed when the way is clear and safe.,green signal ho to vehicle move kar sakte hain
+Can I make a U-turn anywhere?,u_turn,Make a U-turn only where it is permitted and safe to do so.,can i make a uturn anywhere
+Where is a U-turn allowed?,u_turn,Make a U-turn only where it is permitted and safe to do so.,where is a uturn allowed
+Is U-turn allowed at every signal?,u_turn,Make a U-turn only where it is permitted and safe to do so.,is uturn allowed at every signal
+Kya har jagah U-turn le sakte hain?,u_turn,Make a U-turn only where it is permitted and safe to do so.,kya har jagah uturn le sakte hain
+U-turn kahan allowed hota hai?,u_turn,Make a U-turn only where it is permitted and safe to do so.,uturn kahan allowed hota hai
+Kya signal par U-turn le sakte hain?,u_turn,Make a U-turn only where it is permitted and safe to do so.,kya signal par uturn le sakte hain
+What does a no entry sign mean?,no_entry,Do not enter a road marked with a no-entry sign.,what does a no entry sign mean
+Can I enter a no entry road?,no_entry,Do not enter a road marked with a no-entry sign.,can i enter a no entry road
+Should I follow a no entry sign?,no_entry,Do not enter a road marked with a no-entry sign.,should i follow a no entry sign
+No entry ka kya matlab hai?,no_entry,Do not enter a road marked with a no-entry sign.,no entry ka kya matlab hai
+Kya no entry wali road par ja sakte hain?,no_entry,Do not enter a road marked with a no-entry sign.,kya no entry wali road par ja sakte hain
+No entry sign ko follow karna zaroori hai?,no_entry,Do not enter a road marked with a no-entry sign.,no entry sign ko follow karna zaroori hai
+Can I use the horn anywhere?,horn,Use the horn only when necessary and avoid unnecessary honking.,can i use the horn anywhere
+When should I use the horn?,horn,Use the horn only when necessary and avoid unnecessary honking.,when should i use the horn
+Should I use the horn unnecessarily?,horn,Use the horn only when necessary and avoid unnecessary honking.,should i use the horn unnecessarily
+Horn kab use karna chahiye?,horn,Use the horn only when necessary and avoid unnecessary honking.,horn kab use karna chahiye
+Kya unnecessary horn bajana chahiye?,horn,Use the horn only when necessary and avoid unnecessary honking.,kya unnecessary horn bajana chahiye
+Kya har jagah horn use kar sakte hain?,horn,Use the horn only when necessary and avoid unnecessary honking.,kya har jagah horn use kar sakte hain
+Can I drive after drinking alcohol?,drink_drive,Never drive after consuming alcohol. It can seriously affect driving ability and safety.,can i drive after drinking alcohol
+Is drinking and driving safe?,drink_drive,Never drive after consuming alcohol. It can seriously affect driving ability and safety.,is drinking and driving safe
+Should I drive after consuming alcohol?,drink_drive,Never drive after consuming alcohol. It can seriously affect driving ability and safety.,should i drive after consuming alcohol
+Kya sharab peene ke baad driving kar sakte hain?,drink_drive,Never drive after consuming alcohol. It can seriously affect driving ability and safety.,kya sharab peene ke baad driving kar sakte hain
+Drink and drive karna safe hai?,drink_drive,Never drive after consuming alcohol. It can seriously affect driving ability and safety.,drink and drive karna safe hai
+Kya alcohol consume karne ke baad gaari chala sakte hain?,drink_drive,Never drive after consuming alcohol. It can seriously affect driving ability and safety.,kya alcohol consume karne ke baad gaari chala sakte hain
+How should I change lanes?,lane_change,Check your surroundings and use the indicator before changing lanes.,how should i change lanes
+Should I use indicators before changing lanes?,lane_change,Check your surroundings and use the indicator before changing lanes.,should i use indicators before changing lanes
+Can I change lanes suddenly?,lane_change,Check your surroundings and use the indicator before changing lanes.,can i change lanes suddenly
+Lane change karte waqt kya karna chahiye?,lane_change,Check your surroundings and use the indicator before changing lanes.,lane change karte waqt kya karna chahiye
+Kya lane change se pehle indicator dena chahiye?,lane_change,Check your surroundings and use the indicator before changing lanes.,kya lane change se pehle indicator dena chahiye
+Kya achanak lane change kar sakte hain?,lane_change,Check your surroundings and use the indicator before changing lanes.,kya achanak lane change kar sakte hain
+Why are traffic signs important?,road_signs,Always pay attention to traffic signs and follow the applicable instructions.,why are traffic signs important
+Should I follow traffic signs?,road_signs,Always pay attention to traffic signs and follow the applicable instructions.,should i follow traffic signs
+What should I do when I see a traffic sign?,road_signs,Always pay attention to traffic signs and follow the applicable instructions.,what should i do when i see a traffic sign
+Traffic signs follow karna kyun zaroori hai?,road_signs,Always pay attention to traffic signs and follow the applicable instructions.,traffic signs follow karna kyun zaroori hai
+Kya traffic signs ko follow karna chahiye?,road_signs,Always pay attention to traffic signs and follow the applicable instructions.,kya traffic signs ko follow karna chahiye
+Road sign dekh kar kya karna chahiye?,road_signs,Always pay attention to traffic signs and follow the applicable instructions.,road sign dekh kar kya karna chahiye
+What should I do while driving at night?,night_driving,"Drive carefully at night, use appropriate headlights, and maintain a safe speed.",what should i do while driving at night
+Should I use headlights at night?,night_driving,"Drive carefully at night, use appropriate headlights, and maintain a safe speed.",should i use headlights at night
+Is night driving dangerous?,night_driving,"Drive carefully at night, use appropriate headlights, and maintain a safe speed.",is night driving dangerous
+Raat ko driving karte waqt kya karna chahiye?,night_driving,"Drive carefully at night, use appropriate headlights, and maintain a safe speed.",raat ko driving karte waqt kya karna chahiye
+Kya raat ko headlights use karni chahiye?,night_driving,"Drive carefully at night, use appropriate headlights, and maintain a safe speed.",kya raat ko headlights use karni chahiye
+Night driving ke waqt kya precautions leni chahiye?,night_driving,"Drive carefully at night, use appropriate headlights, and maintain a safe speed.",night driving ke waqt kya precautions leni chahiye
+Sharab pee kar gaari chalana safe hai?,drink_drive,Sharab pee kar driving nahi karni chahiye kyun ke ye road safety ke liye dangerous hai.,sharab pee kar gaari chalana safe hai
+Alcohol lene ke baad driving kar sakte hain?,drink_drive,Alcohol ke baad driving nahi karni chahiye.,alcohol lene ke baad driving kar sakte hain
+Nasha karke drive karna theek hai?,drink_drive,Nasha karke driving karna unsafe hai aur nahi karna chahiye.,nasha karke drive karna theek hai
+Drink and drive se kya nuqsan hai?,drink_drive,Drink and drive driving ability aur road safety ko affect karta hai.,drink and drive se kya nuqsan hai
+Kya alcohol driving ko affect karti hai?,drink_drive,"Ji haan, alcohol driving ability ko seriously affect kar sakti hai.",kya alcohol driving ko affect karti hai
+Pee kar driving karna kyun dangerous hai?,drink_drive,Pee kar driving reaction aur judgement ko affect kar sakti hai.,pee kar driving karna kyun dangerous hai
+Green signal aaye to kya karna chahiye?,green_light,Green signal par proceed kar sakte hain agar raasta clear aur safe ho.,green signal aaye to kya karna chahiye
+Hari batti ka kya matlab hai?,green_light,Hari batti par proceed kar sakte hain agar raasta clear aur safe ho.,hari batti ka kya matlab hai
+Green light ka matlab kya hota hai?,green_light,Green light par vehicle proceed kar sakti hai jab raasta safe ho.,green light ka matlab kya hota hai
+Signal green ho jaye to gaari chala sakte hain?,green_light,"Ji, green signal par safe hone ki surat mein proceed kar sakte hain.",signal green ho jaye to gaari chala sakte hain
+Hari signal par rukna hota hai?,green_light,Green signal par rukne ke bajaye safe ho to proceed karna chahiye.,hari signal par rukna hota hai
+Green batti jalne par kya karun?,green_light,Green batti par raasta clear ho to proceed karein.,green batti jalne par kya karun
+Horn kab bajana chahiye?,horn,Horn sirf zaroorat ke waqt use karna chahiye.,horn kab bajana chahiye
+Kya unnecessary horn bajana theek hai?,horn,"Nahi, unnecessary horn nahi bajana chahiye.",kya unnecessary horn bajana theek hai
+Gaari ka horn baar baar use karna chahiye?,horn,Horn sirf zaroorat ke waqt use karein.,gaari ka horn baar baar use karna chahiye
+Horn ka sahi use kya hai?,horn,Horn ko sirf zaroorat aur safety ke liye use karna chahiye.,horn ka sahi use kya hai
+Driving mein horn kis waqt use karein?,horn,Driving mein horn sirf necessary situation mein use karein.,driving mein horn kis waqt use karein
+Road par be wajah horn bajana kaisa hai?,horn,Be wajah horn bajana avoid karna chahiye.,road par be wajah horn bajana kaisa hai
+Lane change karte waqt kya karna chahiye?,lane_change,Lane change se pehle surroundings check karein aur indicator use karein.,lane change karte waqt kya karna chahiye
+Lane badalne se pehle indicator dena chahiye?,lane_change,"Ji haan, lane change se pehle indicator use karna chahiye.",lane badalne se pehle indicator dena chahiye
+Gaari doosri lane mein kaise le jayein?,lane_change,Lane change se pehle mirrors aur surroundings check karein aur indicator dein.,gaari doosri lane mein kaise le jayein
+Lane change karne ka safe tareeqa kya hai?,lane_change,"Mirrors check karein, indicator dein aur safe hone par lane change karein.",lane change karne ka safe tareeqa kya hai
+Driving mein lane kab change karni chahiye?,lane_change,Lane tab change karein jab safe ho aur indicator use kiya gaya ho.,driving mein lane kab change karni chahiye
+Lane change se pehle kya check karein?,lane_change,"Mirrors, blind spot aur surroundings check karein.",lane change se pehle kya check karein
+Raat ko driving karte waqt kya karna chahiye?,night_driving,Raat ko headlights use karein aur safe speed maintain karein.,raat ko driving karte waqt kya karna chahiye
+Night driving mein kya ehtiyat karni chahiye?,night_driving,Raat ko carefully drive karein aur appropriate headlights use karein.,night driving mein kya ehtiyat karni chahiye
+Raat mein gaari ki lights use karni chahiye?,night_driving,"Ji haan, raat ko appropriate headlights use karni chahiye.",raat mein gaari ki lights use karni chahiye
+Andhere mein driving kaise karni chahiye?,night_driving,Andhere mein carefully drive karein aur headlights appropriate tareeqe se use karein.,andhere mein driving kaise karni chahiye
+Raat ko road par speed kaisi honi chahiye?,night_driving,Raat ko safe speed maintain karni chahiye.,raat ko road par speed kaisi honi chahiye
+Night driving safe kaise banayein?,night_driving,"Headlights use karein, speed control mein rakhein aur carefully drive karein.",night driving safe kaise banayein
+No entry sign ka kya matlab hai?,no_entry,No Entry sign wali road par enter nahi karna chahiye.,no entry sign ka kya matlab hai
+No entry wali road par ja sakte hain?,no_entry,No Entry wali road par enter nahi karna chahiye.,no entry wali road par ja sakte hain
+No entry ka sign dekh kar kya karna chahiye?,no_entry,No Entry sign dekh kar us road mein enter nahi karna chahiye.,no entry ka sign dekh kar kya karna chahiye
+No entry board ka kya matlab hai?,no_entry,No Entry board ka matlab hai ke road par entry allowed nahi hai.,no entry board ka kya matlab hai
+Kya no entry road par gaari le ja sakte hain?,no_entry,"Nahi, No Entry wali road par enter nahi karna chahiye.",kya no entry road par gaari le ja sakte hain
+No entry sign ko ignore kar sakte hain?,no_entry,"Nahi, No Entry sign ko follow karna chahiye.",no entry sign ko ignore kar sakte hain
+Traffic signs ko follow karna kyun zaroori hai?,road_signs,Traffic signs drivers ko road rules aur conditions ke bare mein guide karte hain.,traffic signs ko follow karna kyun zaroori hai
+Road signs ka kya faida hai?,road_signs,Road signs drivers ko important traffic rules aur road conditions batate hain.,road signs ka kya faida hai
+Traffic sign dekh kar kya karna chahiye?,road_signs,Traffic signs ko samajh kar unke mutabiq drive karni chahiye.,traffic sign dekh kar kya karna chahiye
+Road par signs ko ignore karna theek hai?,road_signs,"Nahi, traffic signs ko ignore nahi karna chahiye.",road par signs ko ignore karna theek hai
+Traffic signs kyun lagaye jate hain?,road_signs,Traffic signs road users ko rules aur conditions ke bare mein guide karte hain.,traffic signs kyun lagaye jate hain
+Driving mein road signs ki importance kya hai?,road_signs,Road signs safe driving aur traffic rules follow karne mein help karte hain.,driving mein road signs ki importance kya hai
+U-turn kahan le sakte hain?,u_turn,U-turn sirf us jagah lena chahiye jahan allowed ho aur safe ho.,uturn kahan le sakte hain
+U-turn lena safe kab hota hai?,u_turn,U-turn tab lein jab allowed ho aur road safe ho.,uturn lena safe kab hota hai
+Gaari ka U-turn kahan karna chahiye?,u_turn,U-turn sirf permitted aur safe location par karna chahiye.,gaari ka uturn kahan karna chahiye
+Kya har jagah U-turn le sakte hain?,u_turn,"Nahi, U-turn sirf jahan allowed ho wahan lena chahiye.",kya har jagah uturn le sakte hain
+U-turn se pehle kya check karein?,u_turn,U-turn se pehle traffic aur surroundings check karein.,uturn se pehle kya check karein
+U-turn lene ka sahi tareeqa kya hai?,u_turn,U-turn sirf safe aur permitted location par lena chahiye.,uturn lene ka sahi tareeqa kya hai
+Yellow signal ka kya matlab hai?,yellow_light,Yellow signal par speed slow karein aur stop ke liye prepare karein.,yellow signal ka kya matlab hai
+Peeli batti par kya karna chahiye?,yellow_light,Peeli batti par speed slow karein aur safe ho to stop karein.,peeli batti par kya karna chahiye
+Yellow light aaye to gaari rokni chahiye?,yellow_light,Yellow light par slow down karein aur safe ho to stop ke liye prepare karein.,yellow light aaye to gaari rokni chahiye
+Peela signal dekh kar kya karein?,yellow_light,Peela signal dekh kar speed slow karein aur stop ke liye prepare karein.,peela signal dekh kar kya karein
+Yellow batti ka kya signal hota hai?,yellow_light,Yellow batti speed slow karne aur stop ke liye prepare hone ka signal hai.,yellow batti ka kya signal hota hai
+Signal yellow ho to driver ko kya karna chahiye?,yellow_light,Driver ko speed slow karni chahiye aur safe ho to stop ke liye prepare karna chahiye.,signal yellow ho to driver ko kya karna chahiye
+Green signal par kya karna hota hai?,green_light,Green signal par safe hone ki surat mein proceed karna chahiye.,green signal par kya karna hota hai
+Hari batti ho to gaari rokni hai?,green_light,Green signal par raasta clear ho to proceed karna chahiye.,hari batti ho to gaari rokni hai
+Green signal milne par kya karein?,green_light,Green signal par raasta clear aur safe ho to proceed karein.,green signal milne par kya karein
+Hari light ka matlab kya hai?,green_light,Hari light ka matlab hai ke safe hone par proceed kar sakte hain.,hari light ka matlab kya hai
+Signal green ho to driver ko kya karna chahiye?,green_light,Green signal par safe hone ki surat mein vehicle proceed kar sakti hai.,signal green ho to driver ko kya karna chahiye
+Green light par road cross kar sakte hain?,green_light,Green light par raasta clear ho to proceed kar sakte hain.,green light par road cross kar sakte hain
+Road signs ko samajhna kyun zaroori hai?,road_signs,Road signs drivers ko traffic rules aur road conditions ke bare mein guide karte hain.,road signs ko samajhna kyun zaroori hai
+Traffic signs driver ki kis tarah help karte hain?,road_signs,Traffic signs drivers ko safe driving aur road rules follow karne mein help karte hain.,traffic signs driver ki kis tarah help karte hain
+Road par traffic signs ka kya purpose hai?,road_signs,Traffic signs road users ko important rules aur information provide karte hain.,road par traffic signs ka kya purpose hai
+Traffic signs ki importance kya hai?,road_signs,Traffic signs safe driving aur traffic rules follow karne mein madad karte hain.,traffic signs ki importance kya hai
+Driving karte waqt signs dekhna zaroori hai?,road_signs,"Ji haan, driving ke waqt traffic signs ko follow karna zaroori hai.",driving karte waqt signs dekhna zaroori hai
+Traffic sign ko follow na karne se kya ho sakta hai?,road_signs,Traffic signs ko ignore karna unsafe ho sakta hai.,traffic sign ko follow na karne se kya ho sakta hai
+Yellow signal par speed kam karni chahiye?,yellow_light,"Ji haan, yellow signal par speed slow karni chahiye.",yellow signal par speed kam karni chahiye
+Peela signal aaye to driver ko kya karna chahiye?,yellow_light,Peela signal aaye to speed slow karein aur stop ke liye prepare karein.,peela signal aaye to driver ko kya karna chahiye
+Yellow light dekh kar kya karein?,yellow_light,Yellow light par speed slow karein aur safe ho to stop karein.,yellow light dekh kar kya karein
+Peeli batti ka kya matlab hota hai?,yellow_light,Peeli batti par slow down karein aur stop ke liye prepare karein.,peeli batti ka kya matlab hota hai
+Signal peela ho to gaari tez chalani chahiye?,yellow_light,"Nahi, yellow signal par speed slow karni chahiye.",signal peela ho to gaari tez chalani chahiye
+Yellow signal par rukne ke liye prepare karna chahiye?,yellow_light,"Ji haan, safe ho to rukne ke liye prepare karna chahiye.",yellow signal par rukne ke liye prepare karna chahiye
+Ambulance ko dekh kar driver ko kya karna chahiye?,emergency_vehicle,Ambulance ko safe tareeqe se raasta dena chahiye.,ambulance ko dekh kar driver ko kya karna chahiye
+Emergency vehicle aaye to kya karein?,emergency_vehicle,Emergency vehicle ko safe tareeqe se way dena chahiye.,emergency vehicle aaye to kya karein
+Ambulance ke liye raasta clear karna chahiye?,emergency_vehicle,"Ji haan, ambulance ko safe tareeqe se raasta dena chahiye.",ambulance ke liye raasta clear karna chahiye
+Sirens wali ambulance aaye to kya karna chahiye?,emergency_vehicle,Ambulance ko raasta dena chahiye jab ye safe ho.,sirens wali ambulance aaye to kya karna chahiye
+Emergency vehicle peeche ho to kya karein?,emergency_vehicle,Safe tareeqe se side de kar emergency vehicle ko raasta dena chahiye.,emergency vehicle peeche ho to kya karein
+Ambulance ko priority deni chahiye?,emergency_vehicle,"Ji haan, ambulance ko safe tareeqe se raasta dena chahiye.",ambulance ko priority deni chahiye
+Pedestrian ko road cross karte dekh kar kya karein?,pedestrian,Pedestrian ko raasta dena chahiye aur vehicle slow karni chahiye.,pedestrian ko road cross karte dekh kar kya karein
+Road cross karne wale logon ka khayal kaise rakhein?,pedestrian,Pedestrians ko appropriate right of way dena chahiye.,road cross karne wale logon ka khayal kaise rakhein
+Pedestrian crossing par driver ko kya karna chahiye?,pedestrian,Pedestrian crossing par speed slow karein aur pedestrians ko raasta dein.,pedestrian crossing par driver ko kya karna chahiye
+Log road cross kar rahe hon to gaari rokni chahiye?,pedestrian,Agar zaroorat ho to vehicle slow ya stop karke pedestrians ko raasta dein.,log road cross kar rahe hon to gaari rokni chahiye
+Pedestrians ke qareeb driving kaise karni chahiye?,pedestrian,Pedestrians ke qareeb carefully drive karein aur zaroorat par speed slow karein.,pedestrians ke qareeb driving kaise karni chahiye
+Pedestrian safety ke liye driver ko kya karna chahiye?,pedestrian,Driver ko carefully drive karna aur pedestrians ko appropriate right of way dena chahiye.,pedestrian safety ke liye driver ko kya karna chahiye
