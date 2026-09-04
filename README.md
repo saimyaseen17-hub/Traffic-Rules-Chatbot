@@ -55,25 +55,6 @@ Traffic-Rules-Chatbot/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application:
-
-```bash
-streamlit run app.py
-```
 
 ## 🎯 Purpose
 
